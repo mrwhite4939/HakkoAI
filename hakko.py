@@ -351,7 +351,7 @@ def main():
     # OPTION 2: Hardcode your API key here (for Termux/Kali convenience)
     # Uncomment and add your key:
     # **REPLACE_ME_WITH_YOUR_ACTUAL_OPENROUTER_API_KEY**
-    ai = HakkoAI(api_key="sk-or-v1-YOUR_ACTUAL_OPENROUTER_API_KEY_HERE")
+    ai = HakkoAI(api_key="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")
     
     ai.run()
 
